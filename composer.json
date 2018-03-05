@@ -1,0 +1,26 @@
+{
+    "name": "traderinteractive/exceptions",
+    "description": "Collection of standard exception classes",
+    "keywords": [
+        "exception",
+        "error",
+        "throwable"
+    ],
+    "license": "MIT",
+    "config": {
+        "sort-packages": true
+    },
+    "require": {
+        "php": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "TraderInteractive\\Exceptions\\": "src"
+        }
+    },
+    "require-dev": {
+        "php-coveralls/php-coveralls": "^1.0",
+        "phpunit/phpunit": "^6.5",
+        "squizlabs/php_codesniffer": "^3.2"
+    }
+}
