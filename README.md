@@ -29,7 +29,7 @@ composer require traderinteractive/exceptions
 ## Project Build
 
 With a checkout of the code get [Composer](http://getcomposer.org) in your PATH and run:
-``sh
+```sh
 composer install
 ./vendor/bin/phpunit
 ./vendor/bin/phpcs
