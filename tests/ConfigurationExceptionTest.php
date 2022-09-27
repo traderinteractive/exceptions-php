@@ -12,6 +12,7 @@ final class ConfigurationExceptionTest extends TestCase
 {
     /**
      * @test
+     * @coversNothing
      *
      * @return void
      */

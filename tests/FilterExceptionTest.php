@@ -12,6 +12,7 @@ final class ExceptionTest extends TestCase
 {
     /**
      * @test
+     * @coversNothing
      *
      * @return void
      */

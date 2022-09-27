@@ -12,6 +12,7 @@ final class ReadOnlyViolationExceptionTest extends TestCase
 {
     /**
      * @test
+     * @coversNothing
      *
      * @return void
      */
